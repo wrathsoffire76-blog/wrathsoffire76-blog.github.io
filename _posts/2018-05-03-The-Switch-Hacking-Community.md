@@ -2,6 +2,7 @@
 layout: post
 title: "The Switch hacking community"
 date: 2018-05-03 23:46:00
+image: /img/ReSwitched Logo.png
 categories: Switch
 author: wrathsoffire76
 ---
