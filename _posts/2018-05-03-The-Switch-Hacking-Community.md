@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: post
 title: "The Switch hacking community"
 date: 2018-05-03 23:46:00
 categories: Switch
 author: wrathsoffire76
-highlight: true
 ---
 Alright, where do I start? I guess I'll start by explaining why I wanted to write this in the first place. I saw Hedgeberg on Twitter Tweeing about how she is "..sick of this fucking community..". To be completly frank, I can't blame her one bit.
   
