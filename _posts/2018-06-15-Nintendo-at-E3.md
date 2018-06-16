@@ -3,7 +3,7 @@ layout: post
 title: "Nintendo @ E3"
 date: 2018-06-15 00:28:00
 cover: https://raw.githubusercontent.com/wrathsoffire76-blog/wrathsoffire76-blog.github.io/master/img/Nintendo-E3-2018.jpg
-categories: Nintendo, Switch, Super, Smash, Bros.
+categories: Nintendo Switch Super Smash Bros.
 author: wrathsoffire76
 ---
 So Nintendo had their E3 press conference and this is what my thoughts are on it.
@@ -15,5 +15,5 @@ Ok, so let's go more in-depth on this. The big announcements at the Direct was t
 And after all that, we get over 30 mins of just Super Smash Bros., I personally can't wait for Super Smash Bros. but I did hear people conplain that they didn't like Super Smash Bros. so it must have been even more dissapointing for them.
 
 Other presentations like Microsoft and Bethesda were amazing at their presentations so it's such a shame to see Nintendo flop like this.
----
+
 I will be bringing out a full review on this years E3 in a few days so look foward to that, until then though...
