@@ -21,7 +21,7 @@ And this is where the big talking point comes. As the match starts, the two play
 The whole reason why they did this was because people started booing them for using Bayonetta who is very broken and it's fairly hard to stop her with most characters. I don't blame the organizers however as they've always allowed her.
 
 My thoughts? I think the crowd was immature for acting the way they did and I think the players were immature for lashing back in the way they did. Considering that this is more then likely the last year Smash 4 will be at Evo because of Ultimate coming in December, it's very sad to see that this is how it ended.
----
+
 In other parts of Evo, Leffen won the Melee tournament with no drama. We got announced a new Smash Direct which aired today. Some character from The Walking Dead is coming into Tekken with much dismay from the Tekken Community and the event in a whole was a great success.
 
 Anyway, sorry if this has been a long read but I wanted to explain the story first so I could gather a whole opinion. ~Also that review on E3 never came, huh?~
