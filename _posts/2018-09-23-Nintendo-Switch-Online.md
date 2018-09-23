@@ -6,7 +6,7 @@ cover: https://raw.githubusercontent.com/wrathsoffire76-blog/wrathsoffire76-blog
 categories: Nintendo Switch Online
 author: wrathsoffire76
 ---
-Nintendo released their huge online service that was delayed for almost a year and a half and well.. It's not what people expected
+Nintendo released their huge online service that was delayed for almost a year and a half and well.. It's not what people expected  
 ---
 Nintendo livestreamed a Nintendo Direct on the 13th of September and one of the things they talked about was their brand new Nintendo Direct service that was going to add all these new cool features with the 6.0.0 Switch Update.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CRuHg1dv8MI?start=772" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
